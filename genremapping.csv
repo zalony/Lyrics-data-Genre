@@ -1,0 +1,323 @@
+﻿,Genres2,count,Overall_Genre
+0,,2292,
+1,pop,370,pop
+2,country,278,country
+3,alternative rock,259,alternative rock
+4,rock,209,rock
+5,r&b,204,r&b
+6,hip hop,198,hip hop
+7,pop rock,198,pop rock
+8,soul,190,r&b
+9,gospel,182,country
+10,hard rock,181,hard rock
+11,blues,155,jazz
+12,folk,142,folk
+13,indie rock,142,alternative rock
+14,folk rock,129,alternative rock
+15,jazz,113,jazz
+16,soft rock,110,rock
+17,country rock,107,country
+18,new wave,98,new wave
+19,rock and roll,93,rock
+20,punk rock,90,rock
+21,blues rock,84,jazz
+22,art rock,78,rock
+23,power pop,74,pop
+24,rockabilly,73,country
+25,heavy metal,72,hard rock
+26,americana,69,country
+27,traditional pop,67,jazz
+28,post-punk,60,alternative rock
+29,synth-pop,57,pop
+30,funk,54,jazz
+31,indie pop,52,alternative rock
+32,country pop,49,country
+33,post-hardcore,46,hard rock
+34,alternative metal,46,hard rock
+35,emo,45,hard rock
+36,progressive soul,45,jazz
+37,disco,43,pop
+38,electronic,42,pop
+39,easy listening,42,jazz
+40,blue-eyed soul,40,jazz
+41,progressive rock,40,hard rock
+42,glam rock,40,hard rock
+43,swing,40,jazz
+44,reggae,39,r&b
+45,dance-pop,39,pop
+46,trap,37,hip hop
+47,electronic rock,35,rock
+48,post-grunge,34,hard rock
+49,southern rock,33,rock
+50,indie folk,33,alternative rock
+51,alternative country,33,country
+52,hardcore punk,32,pop rock
+53,bluegrass,32,blues
+54,dance,32,pop
+55,pop-punk,31,pop rock
+56,roots rock,31,rock
+57,industrial rock,29,hard rock
+58,honky-tonk,28,country
+59,experimental rock,27,rock
+60,rhythm and blues,27,blues
+61,psychedelic soul,26,blues
+62,pop punk,26,pop
+63,adult contemporary,26,ccm
+64,progressive rap,26,hip hop
+65,folktronica,26,alternative rock
+66,nu metal,25,hard rock
+67,psychedelia,25,pop
+68,jangle pop,25,pop
+69,ccm,24,ccm
+70,christian rock,24,ccm
+71,doo-wop,24,country
+72,electronica,23,pop
+73,folk punk,23,pop rock
+74,art pop,22,pop
+75,arena rock,22,rock
+76,power metal,22,hard rock
+77,dream pop,21,pop
+78,outlaw country,21,country
+79,alternative hip hop,20,hip hop
+80,jam rock,20,rock
+81,emo rap,19,hip hop
+82,big band,19,jazz
+83,experimental,19,alternative rock
+84,gangsta rap,19,hip hop
+85,funk rock,19,alternative rock
+86,pop rap,19,hip hop
+87,contemporary worship music,18,ccm
+88,noise pop,18,pop
+89,neo soul,18,blues
+90,contemporary christian,17,ccm
+91,west coast hip hop,16,hip hop
+92,trop rock,16,rock
+93,latin,16,
+94,neoclassical metal,16,hard rock
+95,dance-rock,16,rock
+96,psychedelic rock,16,rock
+97,gulf and western,16,country
+98,baroque pop,16,pop
+99,calypso,16,
+100,acoustic,15,alternative rock
+101,celtic rock,15,
+102,pub rock,14,
+103,ska,14,
+104,classical,14,
+105,geek rock,14,
+106,spoken word,14,
+107,country folk,14,country
+108,heartland rock,14,
+109,new jack swing,14,
+110,industrial metal,13,
+111,show tunes,13,jazz
+112,shock rock,13,hard rock
+113,metalcore,13,hard rock
+114,nashville sound,13,
+115,ska punk,13,
+116,noise rock,12,
+117,jam band,12,
+118,glam metal,12,hard rock
+119,dancehall,12,
+120,death metal,12,hard rock
+121,world,12,
+122,speed metal,12,hard rock
+123,pop metal,11,hard rock
+124,contemporary christian music,11,
+125,biker metal,11,hard rock
+126,neotraditionalist country,11,country
+127,groove metal,11,hard rock
+128,shoegaze,11,
+129,hyphy,11,
+130,southern metal,11,hard rock
+131,alternative,11,
+132,nerdcore,11,
+133,jazz rap,10,
+134,electric blues,10,
+135,christian pop,10,ccm
+136,horrorcore,10,
+137,reggae fusion,10,
+138,musical comedy,10,
+139,musique concrète,10,
+140,satire,10,
+141,surreal humor,10,
+142,fusion,10,
+143,texas country,10,country
+144,avant-garde,10,
+145,teen pop,10,
+146,gothic rock,10,rock
+147,conscious rap,10,hip hop
+148,alternative rap,10,hip hop
+149,post-britpop,10,
+150,lo-fi,10,
+151,alternative country,10,country
+152,cloud rap,9,hip hop
+153,melodic hardcore,9,
+154,worship,9,ccm
+155,bro-country,9,country
+156,synthpop,9,
+157,garage punk,9,
+158,post-bop,9,
+159,progressive metal,9,hard rock
+160,southern hip hop,9,hip hop
+161,grunge,9,
+162,children's music,9,
+163,skate punk,9,
+164,boogie rock,9,
+165,bebop,9,
+166,post-disco,9,
+167,surf,9,
+168,surf rock,9,
+169,jazz fusion,9,jazz
+170,folk-pop,9,
+171,freak folk,8,
+172,vocal,8,
+173,experimental pop,8,
+174,garage rock revival,8,hard rock
+175,latin pop,8,
+176,british blues,8,blues
+177,doom metal,8,hard rock
+178,experimental hip hop,8,
+179,electropop,8,
+180,oi!,8,
+181,street punk,8,
+182,celtic punk,8,
+183,golden age hip hop,8,
+184,southern gospel,8,
+185,christian metal,8,
+186,neotraditional country,7,country
+187,shoegazing,7,
+188,folk pop,7,
+189,country blues,7,
+190,jazz-rock,7,
+191,broadway,7,
+192,southern soul,7,
+193,dance-pop (early),7,
+194,dance-punk,7,
+195,raga rock,7,
+196,g-funk,7,
+197,acoustic rock,7,
+198,sketch comedy,6,
+199,punk rock (early),6,
+200,hip house,6,
+201,grunge (early),6,
+202,red dirt,6,
+203,symphonic metal,6,
+204,hi-nrg,6,
+205,latin jazz,6,
+206,drill,6,
+207,smooth jazz,6,
+208,slacker rock,6,
+209,gothic metal,6,
+210,alternative r&b,6,
+211,observational comedy,6,
+212,instrumental rock,6,
+213,eurodance,6,
+214,grindcore,6,
+215,blue comedy,6,
+216,bubblegum,6,
+217,anarcho-punk,5,
+218,reggae rock,5,
+219,hardcore hip hop,5,
+220,j-pop,5,
+221,glam metal (early),5,
+222,death-doom (early),5,
+223,screamo,5,
+224,indie,5,
+225,outsider,5,
+226,ragga-soca,5,
+227,rocksteady,5,
+228,new age,5,
+229,british folk rock,5,
+230,polka,5,
+231,sophisti-pop,5,
+232,animation,5,
+233,soundcloud rap,5,
+234,black metal (early),5,
+235,video games (former),5,
+236,music,5,
+237,chopped and screwed,5,
+238,chicano rap,5,
+239,ragga,5,
+240,soca,5,
+241,comedy,5,
+242,parody,5,
+243,classical music,5,
+244,alternative pop,5,
+245,irish traditional,5,
+246,hypnagogic pop,5,
+247,blackened death metal,5,
+248,electronic dance,5,
+249,avant-pop,5,
+250,worldbeat,5,
+251,music videos,5,
+252,western,5,
+253,countrypolitan,5,
+254,snap,4,
+255,ska-core,4,
+256,praise & worship,4,
+257,doo wop,4,
+258,brill building,4,
+259,beat,4,
+260,(early),4,
+261,plugg (music),4,
+262,cajun,4,
+263,tulsa sound,4,
+264,talking blues,4,
+265,glam punk,4,
+266,ambient,4,
+267,musical theatre,4,
+268,protest music,4,
+269,garage rock,4,
+270,punk blues,4,
+271,progressive pop,4,
+272,christian hip hop,4,
+273,garage pop,4,
+274,nederbeat,4,
+275,psychedelic rock (early),4,
+276,opm,4,
+277,operatic pop,4,
+278,classical crossover,4,
+279,western swing,4,
+280,off-color humor,4,
+281,comedy hip hop,4,
+282,anti-folk,3,
+283,indie-pop,3,
+284,indie hip hop,3,
+285,hardcore punk (early),3,
+286,delta blues,3,
+287,west coast hip-hop,3,
+288,crunk,3,
+289,christian hardcore,3,
+290,anison,3,
+291,hardcore rap,3,
+292,emo (early),3,
+293,death metal (early),3,
+294,swing revival,3,
+295,edm,3,
+296,futurepop,3,
+297,darkwave,3,
+298,islamic,3,
+299,spiritique,3,
+300,sufi,3,
+301,bakersfield sound,3,
+302,death-doom,3,hard rock
+303,dub,3,
+304,black metal,3,hard rock
+305,horror punk,3,
+306,jazz-pop,3,
+307,vocal jazz,3,jazz
+308,rap rock,3,
+309,psychedelic folk,3,
+310,new weird america,3,
+311,jump blues,3,
+312,east coast hip hop,2,
+313,chopper,2,
+314,traditional irish,2,
+315,underground hip hop,2,
+316,country-folk,2,
+317,melodic death metal,2,
+318,k-pop,1,
+319,praise and worship,1,
+320,deathcore,1,
+321,rockfolk rockcountry rockamericana,1,
