@@ -1,9 +1,5 @@
 ##Custom files ignore
 #data
-archive (1).zip
-archive (2).zip
-archive (2)/
-azlyrics-scraper/
 
 #Mac systemfiles
 .DS_Store
